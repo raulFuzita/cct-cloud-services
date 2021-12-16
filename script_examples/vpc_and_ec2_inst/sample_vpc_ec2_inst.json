@@ -220,5 +220,6 @@
                 "Fn::Sub": "http://${WebServerInstance.PublicDnsName}"
             }
         }
-    }
+    },
+    "__comment": "Script available at https://github.com/raulFuzita/cct-cloud-services/blob/cloudformation/script_examples/vpc_and_ec2_inst/sample_vpc_ec2_inst.json"
 }
